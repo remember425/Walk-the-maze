@@ -67,5 +67,6 @@ int main()
 			break;
 		}
 	}
+	printf("恭喜通过！");
 	return 0;
 }
